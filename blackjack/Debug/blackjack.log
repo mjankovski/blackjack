@@ -1,0 +1,5 @@
+﻿  card.cpp
+  main.cpp
+c:\users\miłosz\source\repos\blackjack\blackjack\main.cpp(12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  blackjack.vcxproj -> C:\Users\Miłosz\source\repos\blackjack\Debug\blackjack.exe
